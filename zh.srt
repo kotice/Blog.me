@@ -1,0 +1,2578 @@
+1
+00:00:00,030 --> 00:00:04,939
+接下来这段就是我要在此视频要去制作的
+
+2
+00:00:02,220 --> 00:00:04,939
+video
+
+3
+00:00:06,040 --> 00:00:17,940
+[音频]
+
+4
+00:00:15,049 --> 00:00:19,890
+Hello, 我是 InspirAspir
+
+5
+00:00:17,940 --> 00:00:21,330
+在我们开始前
+
+6
+00:00:19,890 --> 00:00:24,029
+我想介绍一下
+
+7
+00:00:21,330 --> 00:00:27,060
+我的第一张EP "Dreamland"
+
+8
+00:00:24,029 --> 00:00:29,189
+在十一月三日发行
+
+9
+00:00:27,060 --> 00:00:31,050
+我相信在这个视频一周后
+
+10
+00:00:29,189 --> 00:00:32,550
+就会发布
+
+11
+00:00:31,050 --> 00:00:38,550
+如果你喜欢并支持我的工作
+
+12
+00:00:32,550 --> 00:00:39,899
+可以去听一听
+
+13
+00:00:38,550 --> 00:00:42,390
+这个视频会教你如何在 Ableton Live 10 中
+
+14
+00:00:39,899 --> 00:00:44,309
+制作你的第一首歌
+
+15
+00:00:42,390 --> 00:00:46,890
+我曾在 Live 9 做过类似的事
+
+16
+00:00:44,309 --> 00:00:48,720
+但未免有些过时
+
+17
+00:00:46,890 --> 00:00:50,850
+所以我想花些时间
+
+18
+00:00:48,720 --> 00:00:52,860
+带着一些新发现
+
+19
+00:00:50,850 --> 00:00:55,260
+来重新制作这个视频
+
+20
+00:00:52,860 --> 00:00:57,060
+来教你如何从零开始制作一首歌
+
+21
+00:00:55,260 --> 00:01:00,000
+ground rules for myself I will only be 
+并遵守
+
+22
+00:00:57,060 --> 00:01:02,579
+using default Ableton plugins just the
+只使用 Live 自带插件
+
+23
+00:01:00,000 --> 00:01:04,710
+stock instruments audio effects that
+和自带乐器和效果
+
+24
+00:01:02,579 --> 00:01:06,720
+没有三方插件
+
+25
+00:01:04,710 --> 00:01:08,670
+我将尽量使用 Live 10 中
+
+26
+00:01:06,720 --> 00:01:10,439
+相较于 Live 9
+
+27
+00:01:08,670 --> 00:01:13,020
+更新的乐器与效果
+
+28
+00:01:10,439 --> 00:01:14,579
+这样我就可以
+
+29
+00:01:13,020 --> 00:01:16,680
+让这个视频稍加不同
+
+30
+00:01:14,579 --> 00:01:18,240
+并更加现代
+
+31
+00:01:16,680 --> 00:01:20,370
+废话不多说
+
+32
+00:01:18,240 --> 00:01:24,240
+我们开始制作我们的第一首歌
+
+33
+00:01:20,370 --> 00:01:26,520
+你可以看到一个新的 Live 会话
+
+34
+00:01:24,240 --> 00:01:28,290
+在我的面前
+
+35
+00:01:26,520 --> 00:01:31,380
+这是创建一个新的 Live 会话是
+
+36
+00:01:28,290 --> 00:01:33,540
+默认的界面布局
+
+37
+00:01:31,380 --> 00:01:35,760
+我按下我的 Tab 键
+
+38
+00:01:33,540 --> 00:01:37,409
+来调整我的排列视图
+
+39
+00:01:35,760 --> 00:01:39,870
+现在你可以看到总共两条 MIDI 轨道
+
+40
+00:01:37,409 --> 00:01:41,580
+和两条音频轨道
+
+41
+00:01:39,870 --> 00:01:43,170
+MIDI 轨道是我们
+
+42
+00:01:41,580 --> 00:01:44,970
+要编写乐器需要演奏的音符的地方
+
+43
+00:01:43,170 --> 00:01:47,040
+音频轨道将
+
+44
+00:01:44,970 --> 00:01:49,200
+会被用于加载采样
+
+45
+00:01:47,040 --> 00:01:51,240
+首先我想设置这首歌的 BPM
+
+46
+00:01:49,200 --> 00:01:52,950
+现在只是一个粗略的估计
+
+47
+00:01:51,240 --> 00:01:55,260
+并可以随时根据自己喜好
+
+48
+00:01:52,950 --> 00:01:57,930
+来修改它
+
+49
+00:01:55,260 --> 00:01:59,490
+feeling maybe something around 80 bpm
+现在我想让 BPM 在 80 左右
+
+50
+00:01:57,930 --> 00:02:03,869
+the lower the number the slower the song
+BPM 越低， 曲速越慢
+
+51
+00:01:59,490 --> 00:02:06,150
+the higher the number the faster next I
+BPM 越高， 曲速越快
+
+52
+00:02:03,869 --> 00:02:08,009
+want to start by making some chords this
+我想从写和弦开始
+
+53
+00:02:06,150 --> 00:02:09,479
+is just a personal preference I like to
+这是一个个人偏好
+
+54
+00:02:08,009 --> 00:02:11,370
+start with the chords and build from
+我喜欢先写和弦
+
+55
+00:02:09,479 --> 00:02:13,709
+there to make some chords I first need
+然后从那些和弦构建整首歌曲
+
+56
+00:02:11,370 --> 00:02:16,200
+to make a MIDI clip to do this I'm going
+现在我要创建一个 MIDI 片段
+
+57
+00:02:13,709 --> 00:02:18,870
+to left click and drag for however long
+我需要左键和拖拽
+
+58
+00:02:16,200 --> 00:02:21,239
+I want within a MIDI track in this case
+我想要的 MIDI 轨道的长度
+
+59
+00:02:18,870 --> 00:02:22,980
+this is 17 bars long to make the MIDI
+这样, 就有了 17 格
+
+60
+00:02:21,239 --> 00:02:25,290
+clip I'm gonna right click on my
+现在右键我选中的
+
+61
+00:02:22,980 --> 00:02:26,050
+highlighted area and select insert MIDI
+区域然后选 "Insert MIDI(插入 MIDI 片段)"
+
+62
+00:02:25,290 --> 00:02:28,150
+clip you
+你
+
+63
+00:02:26,050 --> 00:02:30,280
+see this piano roll pop up if you don't
+会看到这个钢琴卷弹出， 如果没有
+
+64
+00:02:28,150 --> 00:02:32,560
+be sure to double-click your MIDI clip
+双击你的 MIDI 片段
+
+65
+00:02:30,280 --> 00:02:34,270
+from here I can click right about here
+从这里我可以右键
+
+66
+00:02:32,560 --> 00:02:37,240
+my cursor will make this symbol which
+我的光标会变成这样
+
+67
+00:02:34,270 --> 00:02:39,400
+allows me to click and drag upwards to
+然后就可以点击然后向上拖动
+
+68
+00:02:37,240 --> 00:02:41,140
+expand the piano roll I can press the B
+钢琴卷就会变大, 
+
+69
+00:02:39,400 --> 00:02:42,970
+button on my keyboard to switch to the
+
+70
+00:02:41,140 --> 00:02:44,800
+draw mode you'll see this pencil pop up
+
+71
+00:02:42,970 --> 00:02:48,220
+and I can draw in some notes but if I
+
+72
+00:02:44,800 --> 00:02:49,360
+hit play the spacebar nothing happens
+
+73
+00:02:48,220 --> 00:02:51,520
+that's because I don't have any
+
+74
+00:02:49,360 --> 00:02:53,650
+instrument assigned so what I need to do
+
+75
+00:02:51,520 --> 00:02:55,330
+is go over into my Ableton library and
+
+76
+00:02:53,650 --> 00:02:58,120
+pick an instrument to do this I'm gonna
+
+77
+00:02:55,330 --> 00:03:00,460
+go under instruments and select my
+
+78
+00:02:58,120 --> 00:03:02,650
+instrument under these drop-down menus a
+
+79
+00:03:00,460 --> 00:03:05,560
+new instrument - Ableton Live 10
+
+80
+00:03:02,650 --> 00:03:06,880
+specifically is the wave table so let's
+
+81
+00:03:05,560 --> 00:03:08,380
+pretend I want to use the wave table
+
+82
+00:03:06,880 --> 00:03:11,530
+instrument to do that I'm going to
+
+83
+00:03:08,380 --> 00:03:13,240
+left-click and drag and drop onto my
+
+84
+00:03:11,530 --> 00:03:15,250
+MIDI track I'm gonna go back into my
+
+85
+00:03:13,240 --> 00:03:19,690
+piano roll again by double clicking and
+
+86
+00:03:15,250 --> 00:03:21,670
+now if I hit play quick tip if you want
+
+87
+00:03:19,690 --> 00:03:24,520
+to hear the sounds of your notes as you
+
+88
+00:03:21,670 --> 00:03:27,160
+click on them say for example you can do
+
+89
+00:03:24,520 --> 00:03:28,840
+so by clicking this button right here by
+
+90
+00:03:27,160 --> 00:03:30,610
+default it's grayed out click it it
+
+91
+00:03:28,840 --> 00:03:32,950
+turns blue now every time you draw on a
+
+92
+00:03:30,610 --> 00:03:34,420
+note you can hear that sound just
+
+93
+00:03:32,950 --> 00:03:36,400
+something to consider great so at this
+
+94
+00:03:34,420 --> 00:03:38,500
+point I can now start to make my chords
+
+95
+00:03:36,400 --> 00:03:40,660
+writing chords I feel like is out of
+
+96
+00:03:38,500 --> 00:03:42,820
+scope for this video that's more or less
+
+97
+00:03:40,660 --> 00:03:44,920
+a topic for another day but for now I'm
+
+98
+00:03:42,820 --> 00:03:46,900
+just gonna whip up some quick notes just
+
+99
+00:03:44,920 --> 00:03:48,580
+to get the point across okay so I've
+
+100
+00:03:46,900 --> 00:03:50,320
+gone ahead and created a chord
+
+101
+00:03:48,580 --> 00:03:52,090
+progression that I'm happy with for the
+
+102
+00:03:50,320 --> 00:03:54,160
+sake of this video a few things that I
+
+103
+00:03:52,090 --> 00:03:56,800
+did was that I just made some chords
+
+104
+00:03:54,160 --> 00:03:59,110
+they hit every bar so for at the end I
+
+105
+00:03:56,800 --> 00:04:01,420
+have them hitting every half bar and I
+
+106
+00:03:59,110 --> 00:04:02,860
+also changed my BPM what I'm trying to
+
+107
+00:04:01,420 --> 00:04:05,020
+get across here is that nothing's
+
+108
+00:04:02,860 --> 00:04:06,820
+necessarily locked in stone stay in my
+
+109
+00:04:05,020 --> 00:04:09,160
+BPM I can change that any time if I'm
+
+110
+00:04:06,820 --> 00:04:10,540
+not necessarily feeling it also get
+
+111
+00:04:09,160 --> 00:04:12,280
+creative with your chords you don't
+
+112
+00:04:10,540 --> 00:04:14,739
+necessarily have to have them hit every
+
+113
+00:04:12,280 --> 00:04:18,750
+bar you can change up a pattern maybe
+
+114
+00:04:14,739 --> 00:04:18,750
+have them hit every quarter
+
+115
+00:04:19,640 --> 00:04:24,320
+maybe you can have them hit in fifths
+
+116
+00:04:26,699 --> 00:04:30,940
+in fact yeah that's something I kind of
+
+117
+00:04:29,169 --> 00:04:32,889
+like so I'm gonna keep that so yeah I
+
+118
+00:04:30,940 --> 00:04:35,770
+made it so that these are fits so now
+
+119
+00:04:32,889 --> 00:04:37,030
+five chords hit in every bar and then at
+
+120
+00:04:35,770 --> 00:04:39,100
+the end here I actually changed that
+
+121
+00:04:37,030 --> 00:04:41,530
+pattern and I did a quarter followed by
+
+122
+00:04:39,100 --> 00:04:44,229
+needs the takeaway here I think is that
+
+123
+00:04:41,530 --> 00:04:46,180
+while music theory is important and good
+
+124
+00:04:44,229 --> 00:04:47,710
+to know also the rhythm is very
+
+125
+00:04:46,180 --> 00:04:49,240
+important too just because you have
+
+126
+00:04:47,710 --> 00:04:51,220
+something that sounds nice doesn't mean
+
+127
+00:04:49,240 --> 00:04:53,350
+it's catchy and potentially vice versa
+
+128
+00:04:51,220 --> 00:04:55,000
+so this is a chord progression I'm happy
+
+129
+00:04:53,350 --> 00:04:56,830
+with and for the most part I just want
+
+130
+00:04:55,000 --> 00:04:58,360
+this to loop one thing you can do is
+
+131
+00:04:56,830 --> 00:05:00,160
+you'll notice there's a bar up here I
+
+132
+00:04:58,360 --> 00:05:02,260
+can click and drag I'm going to move
+
+133
+00:05:00,160 --> 00:05:04,840
+this to the left and I'm gonna drag this
+
+134
+00:05:02,260 --> 00:05:05,770
+right end over to the end and actually
+
+135
+00:05:04,840 --> 00:05:08,410
+for now I'm just gonna go ahead and
+
+136
+00:05:05,770 --> 00:05:10,240
+delete this end bit this tail it's not
+
+137
+00:05:08,410 --> 00:05:12,070
+really needed so one thing I can do is I
+
+138
+00:05:10,240 --> 00:05:18,729
+can right click this bar and select a
+
+139
+00:05:12,070 --> 00:05:20,260
+loop so now I can press play and you'll
+
+140
+00:05:18,729 --> 00:05:22,510
+notice that it loops through this MIDI
+
+141
+00:05:20,260 --> 00:05:23,800
+clip now again here's another thing
+
+142
+00:05:22,510 --> 00:05:26,820
+that's kind of out of scope of this
+
+143
+00:05:23,800 --> 00:05:29,620
+video is just straight up sound design
+
+144
+00:05:26,820 --> 00:05:31,539
+that's kind of a beast in itself so for
+
+145
+00:05:29,620 --> 00:05:33,099
+the sake of again moving this video
+
+146
+00:05:31,539 --> 00:05:35,260
+along what I'm gonna do is just use a
+
+147
+00:05:33,099 --> 00:05:37,150
+preset that I like you can find presets
+
+148
+00:05:35,260 --> 00:05:39,400
+by going under instruments and then
+
+149
+00:05:37,150 --> 00:05:41,080
+under any of these subcategories so for
+
+150
+00:05:39,400 --> 00:05:43,419
+example maybe I like the wave table
+
+151
+00:05:41,080 --> 00:05:45,039
+it's new to Ableton Live 10 at which
+
+152
+00:05:43,419 --> 00:05:48,580
+point I can look for some sounds that I
+
+153
+00:05:45,039 --> 00:05:54,820
+like okay I found a preset that I like
+
+154
+00:05:48,580 --> 00:05:56,470
+under mallets Fizz bells sounds pretty
+
+155
+00:05:54,820 --> 00:05:58,870
+good to me now let's give our tracks
+
+156
+00:05:56,470 --> 00:06:02,409
+some bass something to go underneath
+
+157
+00:05:58,870 --> 00:06:04,539
+these chords to do this I'm gonna go
+
+158
+00:06:02,409 --> 00:06:06,760
+ahead and copy this MIDI clip and paste
+
+159
+00:06:04,539 --> 00:06:08,560
+it onto a different MIDI track and now
+
+160
+00:06:06,760 --> 00:06:10,240
+that we have two layers of our song I'm
+
+161
+00:06:08,560 --> 00:06:12,520
+gonna go ahead and rename these tracks
+
+162
+00:06:10,240 --> 00:06:14,650
+just to kind of organize our project a
+
+163
+00:06:12,520 --> 00:06:16,240
+little bit so over here this Fizz bells
+
+164
+00:06:14,650 --> 00:06:18,220
+track I just want to rename that I'm
+
+165
+00:06:16,240 --> 00:06:20,500
+gonna right-click and select rename I'm
+
+166
+00:06:18,220 --> 00:06:22,060
+gonna name this flux and then this
+
+167
+00:06:20,500 --> 00:06:24,940
+number to track the MIDI I'm gonna
+
+168
+00:06:22,060 --> 00:06:26,740
+rename that to bass and I like to color
+
+169
+00:06:24,940 --> 00:06:28,810
+these accordingly just again for the
+
+170
+00:06:26,740 --> 00:06:30,849
+sake of organization right click and I
+
+171
+00:06:28,810 --> 00:06:31,990
+can select a color and for now I'm
+
+172
+00:06:30,849 --> 00:06:34,389
+actually just gonna go ahead and delete
+
+173
+00:06:31,990 --> 00:06:36,190
+these two audio tracks just left click
+
+174
+00:06:34,389 --> 00:06:38,529
+on them and press the delete button okay
+
+175
+00:06:36,190 --> 00:06:39,289
+so now on to making our bass I don't
+
+176
+00:06:38,529 --> 00:06:41,240
+want any
+
+177
+00:06:39,289 --> 00:06:43,189
+hordes for my base I just want one
+
+178
+00:06:41,240 --> 00:06:44,779
+single note to play and the note that I
+
+179
+00:06:43,189 --> 00:06:47,180
+want to play is actually gonna be the
+
+180
+00:06:44,779 --> 00:06:49,460
+roots of my chords so I'm gonna go into
+
+181
+00:06:47,180 --> 00:06:51,409
+my base layers MIDI clip and just delete
+
+182
+00:06:49,460 --> 00:06:53,539
+all of the notes in each chord except
+
+183
+00:06:51,409 --> 00:06:55,369
+for the bottom I just want the last note
+
+184
+00:06:53,539 --> 00:06:57,430
+on the stack this is the root and
+
+185
+00:06:55,369 --> 00:07:00,319
+playing this alongside of the chords
+
+186
+00:06:57,430 --> 00:07:02,330
+should make a sound that I am pretty
+
+187
+00:07:00,319 --> 00:07:07,159
+happy with now I need to assign a bass
+
+188
+00:07:02,330 --> 00:07:08,749
+instrument to my MIDI track I think
+
+189
+00:07:07,159 --> 00:07:11,080
+maybe this one will be good let's try
+
+190
+00:07:08,749 --> 00:07:11,080
+this out
+
+191
+00:07:11,349 --> 00:07:16,280
+so one thing happened there that I'm not
+
+192
+00:07:14,150 --> 00:07:17,630
+particularly happy with one thing you
+
+193
+00:07:16,280 --> 00:07:20,030
+should always keep your eye on is the
+
+194
+00:07:17,630 --> 00:07:22,490
+volume level of your master track the
+
+195
+00:07:20,030 --> 00:07:24,470
+master track is the overall sound so
+
+196
+00:07:22,490 --> 00:07:26,180
+what you hear when you press play all of
+
+197
+00:07:24,470 --> 00:07:28,370
+the layers combined if you look down
+
+198
+00:07:26,180 --> 00:07:29,720
+here there's a layer called master if I
+
+199
+00:07:28,370 --> 00:07:34,220
+hit play right now there's kind of an
+
+200
+00:07:29,720 --> 00:07:36,199
+issue this went into the red this is
+
+201
+00:07:34,220 --> 00:07:38,539
+called clipping so basically he went
+
+202
+00:07:36,199 --> 00:07:40,099
+over the desired threshold and we don't
+
+203
+00:07:38,539 --> 00:07:42,620
+want that some ways to get around
+
+204
+00:07:40,099 --> 00:07:44,870
+clipping are to adjust the volumes of
+
+205
+00:07:42,620 --> 00:07:46,460
+your layers or to EQ them accordingly
+
+206
+00:07:44,870 --> 00:07:48,560
+which we'll get into in just a minute
+
+207
+00:07:46,460 --> 00:07:51,080
+but the point is I think this base layer
+
+208
+00:07:48,560 --> 00:07:52,759
+is just a little bit too loud so I could
+
+209
+00:07:51,080 --> 00:07:54,229
+either lower the volume of this base
+
+210
+00:07:52,759 --> 00:07:55,940
+layer or I could look for a different
+
+211
+00:07:54,229 --> 00:08:04,310
+instrument which I think I'm just gonna
+
+212
+00:07:55,940 --> 00:08:05,930
+do anyways okay so I found a base that I
+
+213
+00:08:04,310 --> 00:08:07,940
+like but this one actually is more or
+
+214
+00:08:05,930 --> 00:08:11,330
+less just a sub base this is under
+
+215
+00:08:07,940 --> 00:08:12,800
+operator base base sine like now this is
+
+216
+00:08:11,330 --> 00:08:15,080
+defined as a sub base because it only
+
+217
+00:08:12,800 --> 00:08:16,280
+takes up such low frequencies and I
+
+218
+00:08:15,080 --> 00:08:17,570
+actually kind of like that so I think
+
+219
+00:08:16,280 --> 00:08:21,590
+I'm gonna keep it now if you'll notice
+
+220
+00:08:17,570 --> 00:08:23,030
+if I hit play again I'm clipping a
+
+221
+00:08:21,590 --> 00:08:24,830
+little bit and actually it looks like my
+
+222
+00:08:23,030 --> 00:08:26,150
+plucks are pretty loud to you so I kind
+
+223
+00:08:24,830 --> 00:08:27,949
+of want to lower the volume of each of
+
+224
+00:08:26,150 --> 00:08:29,479
+these tracks and then I'll EQ them so
+
+225
+00:08:27,949 --> 00:08:31,280
+they fit in later but in order to lower
+
+226
+00:08:29,479 --> 00:08:33,620
+the volume of your tracks just go over
+
+227
+00:08:31,280 --> 00:08:35,899
+here where you see this zero click and
+
+228
+00:08:33,620 --> 00:08:37,579
+drag and you can lower it I'm gonna keep
+
+229
+00:08:35,899 --> 00:08:39,349
+this to about negative 2 decibels
+
+230
+00:08:37,579 --> 00:08:40,700
+essentially just a little bit quieter
+
+231
+00:08:39,349 --> 00:08:44,079
+I'm also gonna do the same with my bass
+
+232
+00:08:40,700 --> 00:08:44,079
+maybe lower just a little bit
+
+233
+00:08:46,840 --> 00:08:51,010
+I am still clipping but that's okay not
+
+234
+00:08:49,450 --> 00:08:52,480
+to be worried I'll be sure to clean up
+
+235
+00:08:51,010 --> 00:08:52,930
+the mix a little bit to make sure that's
+
+236
+00:08:52,480 --> 00:08:54,580
+fine
+
+237
+00:08:52,930 --> 00:08:56,380
+okay so this layer of base covers a lot
+
+238
+00:08:54,580 --> 00:08:58,600
+of the low end frequencies but now I
+
+239
+00:08:56,380 --> 00:09:00,940
+also want to cover some of the more
+
+240
+00:08:58,600 --> 00:09:03,160
+mid-range it's nice to have the rumble
+
+241
+00:09:00,940 --> 00:09:06,640
+of the sub base but I also want another
+
+242
+00:09:03,160 --> 00:09:09,460
+layer on top of it so to do that I'm
+
+243
+00:09:06,640 --> 00:09:12,400
+gonna rename this layer to sub base I'm
+
+244
+00:09:09,460 --> 00:09:15,070
+gonna copy it paste it rename the second
+
+245
+00:09:12,400 --> 00:09:16,450
+layer to maybe a mid base for this one I
+
+246
+00:09:15,070 --> 00:09:18,610
+want to find another instrument
+
+247
+00:09:16,450 --> 00:09:20,620
+something that maybe sounds a little bit
+
+248
+00:09:18,610 --> 00:09:22,420
+grittier kind of hefty okay this one
+
+249
+00:09:20,620 --> 00:09:23,740
+sounds kind of good at least for what
+
+250
+00:09:22,420 --> 00:09:25,660
+I'm trying to do for my own
+
+251
+00:09:23,740 --> 00:09:26,980
+organization's sake and also for some
+
+252
+00:09:25,660 --> 00:09:28,870
+other reasons I'll get into it a little
+
+253
+00:09:26,980 --> 00:09:30,880
+bit I want to group these two together
+
+254
+00:09:28,870 --> 00:09:32,770
+to do that I'm gonna click right here
+
+255
+00:09:30,880 --> 00:09:34,630
+hold the shift key and then select my
+
+256
+00:09:32,770 --> 00:09:37,270
+other MIDI track at which point I can
+
+257
+00:09:34,630 --> 00:09:39,370
+right click and select group tracks this
+
+258
+00:09:37,270 --> 00:09:40,630
+creates a group so the two tracks are
+
+259
+00:09:39,370 --> 00:09:44,200
+now bundled together
+
+260
+00:09:40,630 --> 00:09:47,820
+I can now rename this to bass now what I
+
+261
+00:09:44,200 --> 00:09:50,380
+want to do is EQ my layers a little bit
+
+262
+00:09:47,820 --> 00:09:52,180
+EQ essentially lets me cut off certain
+
+263
+00:09:50,380 --> 00:09:53,890
+ranges of frequencies that the sound
+
+264
+00:09:52,180 --> 00:09:55,000
+takes out and if you do it right it can
+
+265
+00:09:53,890 --> 00:09:57,280
+make your layers fit together like
+
+266
+00:09:55,000 --> 00:10:00,220
+puzzle pieces to find e queuing we can
+
+267
+00:09:57,280 --> 00:10:01,960
+go under audio effects and go to EQ I'm
+
+268
+00:10:00,220 --> 00:10:04,060
+gonna use an EQ 8 for the sake of this
+
+269
+00:10:01,960 --> 00:10:06,460
+video you can left-click and drag your
+
+270
+00:10:04,060 --> 00:10:08,320
+audio effects and drop it onto your MIDI
+
+271
+00:10:06,460 --> 00:10:10,600
+track so this is all my layer of sub
+
+272
+00:10:08,320 --> 00:10:12,820
+bass and for now I only want to listen
+
+273
+00:10:10,600 --> 00:10:14,770
+to this track to do that I'm gonna solo
+
+274
+00:10:12,820 --> 00:10:17,110
+this track by left-clicking right here
+
+275
+00:10:14,770 --> 00:10:21,130
+at this s button now if I hit play I
+
+276
+00:10:17,110 --> 00:10:22,150
+only hear this track if you look down
+
+277
+00:10:21,130 --> 00:10:26,800
+here you'll notice that this is the
+
+278
+00:10:22,150 --> 00:10:28,810
+audio waveform of this track and for the
+
+279
+00:10:26,800 --> 00:10:30,580
+most part I really only want frequencies
+
+280
+00:10:28,810 --> 00:10:33,310
+below I don't know something like a
+
+281
+00:10:30,580 --> 00:10:34,450
+hundred maybe 150 for this sub bass I'm
+
+282
+00:10:33,310 --> 00:10:36,790
+gonna click one of these drop-down
+
+283
+00:10:34,450 --> 00:10:39,640
+buttons and select this guy right here
+
+284
+00:10:36,790 --> 00:10:41,950
+this creates a low-pass filter where I
+
+285
+00:10:39,640 --> 00:10:43,360
+can set the frequency cutoff range I can
+
+286
+00:10:41,950 --> 00:10:46,360
+do that by left clicking and dragging
+
+287
+00:10:43,360 --> 00:10:47,980
+this little circle or by moving this
+
+288
+00:10:46,360 --> 00:10:50,830
+frequency knob what this says is
+
+289
+00:10:47,980 --> 00:10:52,690
+anything above 188 Hertz will not be
+
+290
+00:10:50,830 --> 00:10:54,760
+played it'll just be cut out of the mix
+
+291
+00:10:52,690 --> 00:10:59,320
+and so I'm gonna do what I said and more
+
+292
+00:10:54,760 --> 00:11:01,150
+or less just go about 100 maybe 120
+
+293
+00:10:59,320 --> 00:11:04,620
+you can hear the difference if I toggle
+
+294
+00:11:01,150 --> 00:11:04,620
+this low pass filter on or off
+
+295
+00:11:05,620 --> 00:11:09,480
+[音频]
+
+296
+00:11:07,710 --> 00:11:11,250
+you should hear some frequencies being
+
+297
+00:11:09,480 --> 00:11:12,870
+cut out there when this low-pass filter
+
+298
+00:11:11,250 --> 00:11:14,130
+is active I'm actually gonna change some
+
+299
+00:11:12,870 --> 00:11:16,020
+of these notes a little bit by the way
+
+300
+00:11:14,130 --> 00:11:17,730
+so I raised these notes over here by an
+
+301
+00:11:16,020 --> 00:11:20,640
+octave because it didn't really sound
+
+302
+00:11:17,730 --> 00:11:22,020
+good with the sub bass is too low now I
+
+303
+00:11:20,640 --> 00:11:24,210
+want to do the same thing with my
+
+304
+00:11:22,020 --> 00:11:26,430
+mid-range bass so I'm gonna solo this
+
+305
+00:11:24,210 --> 00:11:27,900
+track and add an EQ filter onto it now
+
+306
+00:11:26,430 --> 00:11:30,180
+I'm going to create a high-pass filter
+
+307
+00:11:27,900 --> 00:11:32,550
+so the opposite of a low-pass filter
+
+308
+00:11:30,180 --> 00:11:35,310
+cuts off anything below it I'm gonna set
+
+309
+00:11:32,550 --> 00:11:37,530
+that at about where my sub bass cuts off
+
+310
+00:11:35,310 --> 00:11:38,940
+so in this case maybe a hundred and
+
+311
+00:11:37,530 --> 00:11:41,130
+eleven issue I also want to create
+
+312
+00:11:38,940 --> 00:11:44,220
+another low-pass filter this time I'm
+
+313
+00:11:41,130 --> 00:11:45,960
+looking for one maybe around 400 this is
+
+314
+00:11:44,220 --> 00:11:49,460
+all really subjective it kind of depends
+
+315
+00:11:45,960 --> 00:11:49,460
+on your specific mix
+
+316
+00:11:50,050 --> 00:11:56,980
+I'm gonna go ahead and lower the notes
+
+317
+00:11:51,880 --> 00:11:58,779
+by an octave again do you make our bass
+
+318
+00:11:56,980 --> 00:12:00,730
+really stand out in this mix I'm
+
+319
+00:11:58,779 --> 00:12:02,769
+actually gonna put another EQ on our
+
+320
+00:12:00,730 --> 00:12:10,390
+bass group as a whole and then put a
+
+321
+00:12:02,769 --> 00:12:11,980
+low-pass filter at about 400 so just
+
+322
+00:12:10,390 --> 00:12:13,930
+really make sure that it's cutoff right
+
+323
+00:12:11,980 --> 00:12:16,540
+there and then I'm going to put an EQ on
+
+324
+00:12:13,930 --> 00:12:19,420
+our layer of plucks put in a high-pass
+
+325
+00:12:16,540 --> 00:12:21,700
+filter at that same exact cutoff so it's
+
+326
+00:12:19,420 --> 00:12:24,100
+more or less saying anything below 400
+
+327
+00:12:21,700 --> 00:12:27,420
+belongs to our basis anything above
+
+328
+00:12:24,100 --> 00:12:27,420
+belongs to our plucks
+
+329
+00:12:28,560 --> 00:12:33,030
+[音频]
+
+330
+00:12:30,780 --> 00:12:36,470
+okay so I'm pretty happy with that now
+
+331
+00:12:33,030 --> 00:12:39,060
+let's throw in some drums into the mix
+
+332
+00:12:36,470 --> 00:12:41,190
+to do this I want to make another MIDI
+
+333
+00:12:39,060 --> 00:12:43,620
+track I can right click in this empty
+
+334
+00:12:41,190 --> 00:12:45,960
+space and select insert MIDI track next
+
+335
+00:12:43,620 --> 00:12:48,360
+I'm going to go under drums drum rack
+
+336
+00:12:45,960 --> 00:12:50,640
+and drag that on to that MIDI track I
+
+337
+00:12:48,360 --> 00:12:52,740
+need to make a MIDI clip and then now if
+
+338
+00:12:50,640 --> 00:12:55,350
+I left click on this MIDI track you can
+
+339
+00:12:52,740 --> 00:12:57,570
+see this grid of squares this is where I
+
+340
+00:12:55,350 --> 00:12:59,460
+can drag in drum kick samples to be
+
+341
+00:12:57,570 --> 00:13:01,770
+played let's look under Ableton's
+
+342
+00:12:59,460 --> 00:13:04,650
+default drums to see what there is go
+
+343
+00:13:01,770 --> 00:13:08,240
+under drum hits let's go for some kicks
+
+344
+00:13:04,650 --> 00:13:10,380
+and just find a sample that I like I
+
+345
+00:13:08,240 --> 00:13:12,450
+kind of like this sample but I don't
+
+346
+00:13:10,380 --> 00:13:14,400
+really like the end of it but that can
+
+347
+00:13:12,450 --> 00:13:16,500
+be fixed so I'm gonna drag this into our
+
+348
+00:13:14,400 --> 00:13:18,960
+drum rack and I'm gonna move these start
+
+349
+00:13:16,500 --> 00:13:22,250
+and end Flags just to the parts that I
+
+350
+00:13:18,960 --> 00:13:25,020
+want maybe have it fade out a little bit
+
+351
+00:13:22,250 --> 00:13:26,700
+that sounds nice so now I can go into my
+
+352
+00:13:25,020 --> 00:13:29,190
+piano roll and you'll notice that my
+
+353
+00:13:26,700 --> 00:13:33,560
+sample is right here so I can draw in a
+
+354
+00:13:29,190 --> 00:13:33,560
+kick pattern so this is what I drew up
+
+355
+00:13:34,820 --> 00:13:40,330
+[音频]
+
+356
+00:13:42,710 --> 00:13:46,580
+some things you can do here to spice up
+
+357
+00:13:44,750 --> 00:13:48,950
+your drums are to add in some audio
+
+358
+00:13:46,580 --> 00:13:51,740
+effects onto your kick layer so maybe an
+
+359
+00:13:48,950 --> 00:13:54,110
+EQ if you go to EQ a drums able to
+
+360
+00:13:51,740 --> 00:13:55,550
+provide some good default kick each
+
+361
+00:13:54,110 --> 00:13:59,600
+cueing another thing we can do is
+
+362
+00:13:55,550 --> 00:14:01,520
+sidechaining this makes the volume of
+
+363
+00:13:59,600 --> 00:14:03,740
+other tracks dip every time this kick
+
+364
+00:14:01,520 --> 00:14:05,899
+plays you can do that by going to audio
+
+365
+00:14:03,740 --> 00:14:08,209
+effects compressor and drag that on to
+
+366
+00:14:05,899 --> 00:14:09,589
+let's say our overall base layer now
+
+367
+00:14:08,209 --> 00:14:12,320
+you'll see there's a compressor if I
+
+368
+00:14:09,589 --> 00:14:14,750
+select this arrow sidechain and then go
+
+369
+00:14:12,320 --> 00:14:17,810
+to drum rack let's actually rename that
+
+370
+00:14:14,750 --> 00:14:19,940
+to kicks now you'll see that it is side
+
+371
+00:14:17,810 --> 00:14:23,180
+change to the kicks I can click this
+
+372
+00:14:19,940 --> 00:14:27,339
+button right here and move this knob to
+
+373
+00:14:23,180 --> 00:14:27,339
+somewhere around here now if I hit play
+
+374
+00:14:28,690 --> 00:14:32,990
+our base is being side chained and we
+
+375
+00:14:31,250 --> 00:14:34,970
+can see that by clicking right here the
+
+376
+00:14:32,990 --> 00:14:41,390
+orange bar represents the volume so
+
+377
+00:14:34,970 --> 00:14:42,980
+every time this kick plays adjusting
+
+378
+00:14:41,390 --> 00:14:44,420
+this circle right here is a way of
+
+379
+00:14:42,980 --> 00:14:50,570
+adjusting how much you want it to
+
+380
+00:14:44,420 --> 00:14:52,490
+actually sidechain let's say that's a
+
+381
+00:14:50,570 --> 00:14:55,040
+good level of ducking what I can do is
+
+382
+00:14:52,490 --> 00:15:00,470
+copy this compressor and paste it onto
+
+383
+00:14:55,040 --> 00:15:02,300
+our pluck layer it really makes our
+
+384
+00:15:00,470 --> 00:15:04,850
+kicks shine it kind of pops through the
+
+385
+00:15:02,300 --> 00:15:08,510
+mix next let's add in some snares to
+
+386
+00:15:04,850 --> 00:15:11,120
+complement the kicks let's right click
+
+387
+00:15:08,510 --> 00:15:14,120
+insert MIDI track add in a drum rack and
+
+388
+00:15:11,120 --> 00:15:17,900
+then find some snares under drums drum
+
+389
+00:15:14,120 --> 00:15:19,610
+hits and let's go to snares now I
+
+390
+00:15:17,900 --> 00:15:21,650
+actually found two samples that I like
+
+391
+00:15:19,610 --> 00:15:24,260
+so let's drag them both into this drum
+
+392
+00:15:21,650 --> 00:15:26,060
+rack and then make a MIDI clip and let's
+
+393
+00:15:24,260 --> 00:15:27,440
+draw them both in whenever I want to
+
+394
+00:15:26,060 --> 00:15:29,000
+snare to play a point is what I'm trying
+
+395
+00:15:27,440 --> 00:15:30,680
+to say here is you can actually stack
+
+396
+00:15:29,000 --> 00:15:32,390
+the samples you can play them at any
+
+397
+00:15:30,680 --> 00:15:34,730
+point maybe even on top of each other
+
+398
+00:15:32,390 --> 00:15:36,140
+let's rename this two snares and I'm
+
+399
+00:15:34,730 --> 00:15:38,570
+actually gonna group my kicks and snares
+
+400
+00:15:36,140 --> 00:15:42,440
+together and call this percussion just
+
+401
+00:15:38,570 --> 00:15:44,000
+for the sake of organization now the
+
+402
+00:15:42,440 --> 00:15:45,350
+snares are kind of bland there's some
+
+403
+00:15:44,000 --> 00:15:46,880
+things you can do to spice them up
+
+404
+00:15:45,350 --> 00:15:49,270
+including maybe adding in some of the
+
+405
+00:15:46,880 --> 00:15:49,270
+cueing
+
+406
+00:15:49,500 --> 00:15:53,340
+which already sounds a little bit better
+
+407
+00:15:51,090 --> 00:15:55,320
+maybe we can add in things like glue
+
+408
+00:15:53,340 --> 00:16:03,930
+compressor maybe to make it a little bit
+
+409
+00:15:55,320 --> 00:16:06,030
+less harsh knowing your audio effects
+
+410
+00:16:03,930 --> 00:16:08,190
+and what they do is another element by
+
+411
+00:16:06,030 --> 00:16:10,350
+itself more or less for the sake of time
+
+412
+00:16:08,190 --> 00:16:12,270
+let's pretend this is good enough I also
+
+413
+00:16:10,350 --> 00:16:14,490
+want the other layers of my song to be
+
+414
+00:16:12,270 --> 00:16:16,470
+sidechain - my snares let's do the same
+
+415
+00:16:14,490 --> 00:16:18,870
+thing we did for the kicks but this time
+
+416
+00:16:16,470 --> 00:16:20,280
+a sidechain to our snares layer in fact
+
+417
+00:16:18,870 --> 00:16:21,870
+let's just copy this compressor and
+
+418
+00:16:20,280 --> 00:16:23,850
+paste it right next to it it's time
+
+419
+00:16:21,870 --> 00:16:28,590
+switching the side chaining audio from
+
+420
+00:16:23,850 --> 00:16:33,900
+kicks to the snares let's maybe have it
+
+421
+00:16:28,590 --> 00:16:35,640
+duck a little bit more it seems good to
+
+422
+00:16:33,900 --> 00:16:43,410
+me let's copy this paste it on to our
+
+423
+00:16:35,640 --> 00:16:46,140
+plucks at this point you can also add in
+
+424
+00:16:43,410 --> 00:16:50,190
+things maybe like some high hats or some
+
+425
+00:16:46,140 --> 00:16:52,230
+cymbals let's make another MIDI track
+
+426
+00:16:50,190 --> 00:16:55,650
+with a drum rack on top of it let's find
+
+427
+00:16:52,230 --> 00:16:57,300
+some high hats I found some high hats I
+
+428
+00:16:55,650 --> 00:16:59,040
+like at which point I can draw in a
+
+429
+00:16:57,300 --> 00:17:02,450
+pattern of high hats that I want ok
+
+430
+00:16:59,040 --> 00:17:02,450
+let's say that's a pattern that I like
+
+431
+00:17:04,310 --> 00:17:11,840
+let's also add in some cymbals I just
+
+432
+00:17:08,340 --> 00:17:11,840
+made a very simple pattern like this
+
+433
+00:17:13,210 --> 00:17:18,240
+[音频]
+
+434
+00:17:15,140 --> 00:17:20,010
+seems good to me let's also EQ this one
+
+435
+00:17:18,240 --> 00:17:22,400
+like we did for the other layers of the
+
+436
+00:17:20,010 --> 00:17:22,400
+percussion
+
+437
+00:17:23,340 --> 00:17:27,600
+and maybe adjust the volumes of each
+
+438
+00:17:25,830 --> 00:17:30,260
+element so maybe the high hats are a
+
+439
+00:17:27,600 --> 00:17:30,260
+little bit too loud
+
+440
+00:17:31,610 --> 00:17:38,670
+maybe these are also a little bit too
+
+441
+00:17:33,870 --> 00:17:42,080
+loud maybe let's also add in some reverb
+
+442
+00:17:38,670 --> 00:17:42,080
+okay so I'm pretty happy with that
+
+443
+00:17:43,520 --> 00:17:50,070
+maybe let's also add in another layer of
+
+444
+00:17:46,050 --> 00:17:51,840
+chords to complement our plucks I'm just
+
+445
+00:17:50,070 --> 00:17:53,820
+gonna copy and paste what I already have
+
+446
+00:17:51,840 --> 00:17:54,960
+for the plucks onto a different MIDI
+
+447
+00:17:53,820 --> 00:17:57,770
+track let's try and find a different
+
+448
+00:17:54,960 --> 00:18:00,330
+instrument that we might like for that I
+
+449
+00:17:57,770 --> 00:18:06,000
+found a pad layer that I like under
+
+450
+00:18:00,330 --> 00:18:14,490
+operator pad and glaciar voices I'm
+
+451
+00:18:06,000 --> 00:18:16,500
+gonna rename this to wide pad let's
+
+452
+00:18:14,490 --> 00:18:18,750
+group these two together I'm actually
+
+453
+00:18:16,500 --> 00:18:20,280
+gonna get rid of the sidechain on each
+
+454
+00:18:18,750 --> 00:18:22,350
+individual layer and just put it on the
+
+455
+00:18:20,280 --> 00:18:24,540
+overall group let's add in another pad
+
+456
+00:18:22,350 --> 00:18:25,410
+just for the sake of making the mix just
+
+457
+00:18:24,540 --> 00:18:27,390
+a little bit wider
+
+458
+00:18:25,410 --> 00:18:29,100
+I found this pad that's kind of
+
+459
+00:18:27,390 --> 00:18:35,130
+interesting again under operator pad
+
+460
+00:18:29,100 --> 00:18:36,630
+this time it's called still sky maybe I
+
+461
+00:18:35,130 --> 00:18:40,680
+want to lower the volume of this just a
+
+462
+00:18:36,630 --> 00:18:42,090
+little bit but as you can more or less
+
+463
+00:18:40,680 --> 00:18:44,040
+put together at this point I'm just kind
+
+464
+00:18:42,090 --> 00:18:46,050
+of adding elements on top of each other
+
+465
+00:18:44,040 --> 00:18:47,790
+just stacking layers but maybe let's
+
+466
+00:18:46,050 --> 00:18:49,830
+also add in a different layer maybe I
+
+467
+00:18:47,790 --> 00:18:54,120
+want to add in melody so let's add in a
+
+468
+00:18:49,830 --> 00:18:56,130
+layer of leads I'm picturing my leads to
+
+469
+00:18:54,120 --> 00:18:58,650
+be something xylophone II so I found
+
+470
+00:18:56,130 --> 00:19:00,810
+this brushed bail hit spell I guess
+
+471
+00:18:58,650 --> 00:19:03,000
+under operator mallets let's drag that
+
+472
+00:19:00,810 --> 00:19:05,700
+on and now let's get to writing on
+
+473
+00:19:03,000 --> 00:19:07,290
+melody okay so I whipped up melody real
+
+474
+00:19:05,700 --> 00:19:09,360
+quick here and I'm gonna do the same
+
+475
+00:19:07,290 --> 00:19:11,430
+thing for what I did with these pad just
+
+476
+00:19:09,360 --> 00:19:13,530
+more or less stack a lot of layers that
+
+477
+00:19:11,430 --> 00:19:15,179
+I'm happy with that I kind of want to
+
+478
+00:19:13,530 --> 00:19:17,789
+work together in
+
+479
+00:19:15,179 --> 00:19:20,099
+ok so I have a few that I'm happy with i
+
+480
+00:19:17,789 --> 00:19:23,009
+stacked guitar
+
+481
+00:19:20,099 --> 00:19:25,229
+I guess sitar guitar over here and the
+
+482
+00:19:23,009 --> 00:19:27,499
+FM one short lead and this is what it
+
+483
+00:19:25,229 --> 00:19:27,499
+sounds like
+
+484
+00:19:28,720 --> 00:19:36,680
+[音频]
+
+485
+00:19:36,950 --> 00:19:40,830
+melodies are another thing I'm chalking
+
+486
+00:19:38,820 --> 00:19:42,240
+up as more or less something I can't
+
+487
+00:19:40,830 --> 00:19:43,950
+cover in this video they're kind of a
+
+488
+00:19:42,240 --> 00:19:47,100
+thing of their own but the one tip I
+
+489
+00:19:43,950 --> 00:19:48,690
+will give is to stay in key and also
+
+490
+00:19:47,100 --> 00:19:51,240
+again as I mentioned before with the
+
+491
+00:19:48,690 --> 00:19:53,130
+chords music theory is important but
+
+492
+00:19:51,240 --> 00:19:54,900
+also so is rhythm you have to kind of
+
+493
+00:19:53,130 --> 00:19:57,000
+balance the two I'm gonna group these
+
+494
+00:19:54,900 --> 00:19:59,670
+together as I did before with everything
+
+495
+00:19:57,000 --> 00:20:01,080
+else and I'm gonna get to balancing each
+
+496
+00:19:59,670 --> 00:20:05,270
+of these I like how they sound together
+
+497
+00:20:01,080 --> 00:20:05,270
+but maybe not at their current volumes
+
+498
+00:20:07,220 --> 00:20:12,960
+I'm gonna throw some audio effects on
+
+499
+00:20:09,600 --> 00:20:15,540
+our overall group maybe an EQ again
+
+500
+00:20:12,960 --> 00:20:16,860
+maybe some compressors for the sink of
+
+501
+00:20:15,540 --> 00:20:18,720
+side-chaining but I'm actually gonna
+
+502
+00:20:16,860 --> 00:20:20,070
+lessen up on these ones just because
+
+503
+00:20:18,720 --> 00:20:22,680
+they're the leads and I want them to
+
+504
+00:20:20,070 --> 00:20:24,120
+kind of lay overtop the whole mix but I
+
+505
+00:20:22,680 --> 00:20:29,100
+still do want a little bit of
+
+506
+00:20:24,120 --> 00:20:31,620
+sidechaining in there maybe I can add in
+
+507
+00:20:29,100 --> 00:20:33,480
+some reverb maybe some delay of sorts
+
+508
+00:20:31,620 --> 00:20:37,010
+maybe a glue compressor at the end of it
+
+509
+00:20:33,480 --> 00:20:37,010
+all to kind of tie everything together
+
+510
+00:20:38,360 --> 00:20:44,880
+[音频]
+
+511
+00:20:46,490 --> 00:20:50,280
+and at this point I'm noticing certain
+
+512
+00:20:48,690 --> 00:20:52,890
+elements or maybe getting drowned out
+
+513
+00:20:50,280 --> 00:20:53,910
+for example our symbols so it's at this
+
+514
+00:20:52,890 --> 00:20:55,500
+point where you'd kind of go back and
+
+515
+00:20:53,910 --> 00:20:57,870
+tinker with everything on just the
+
+516
+00:20:55,500 --> 00:20:59,250
+volumes again nothing is ever really set
+
+517
+00:20:57,870 --> 00:21:01,470
+in stone as soon as you make it you're
+
+518
+00:20:59,250 --> 00:21:02,960
+allowed to go back and adjust things ok
+
+519
+00:21:01,470 --> 00:21:06,180
+so I just went back and I added another
+
+520
+00:21:02,960 --> 00:21:08,100
+layer of plucks I adjusted some volumes
+
+521
+00:21:06,180 --> 00:21:15,630
+just a little bit of tweaks here and
+
+522
+00:21:08,100 --> 00:21:17,640
+there so we have a nice loop here and
+
+523
+00:21:15,630 --> 00:21:20,790
+that's fine and dandy but to turn it
+
+524
+00:21:17,640 --> 00:21:22,440
+into an actual song we need to extend it
+
+525
+00:21:20,790 --> 00:21:25,470
+maybe actually it has to be a full
+
+526
+00:21:22,440 --> 00:21:29,400
+length song so 3 minutes or so point is
+
+527
+00:21:25,470 --> 00:21:31,140
+that can't really just be 20 seconds so
+
+528
+00:21:29,400 --> 00:21:32,730
+I'm gonna move this loop right here I'm
+
+529
+00:21:31,140 --> 00:21:35,430
+just gonna I'm just gonna left click and
+
+530
+00:21:32,730 --> 00:21:37,350
+drag and I'm gonna copy this and paste
+
+531
+00:21:35,430 --> 00:21:39,630
+it over here at which point maybe I want
+
+532
+00:21:37,350 --> 00:21:41,940
+to delete over this as well so now let's
+
+533
+00:21:39,630 --> 00:21:43,560
+make a transition maybe a quick quick
+
+534
+00:21:41,940 --> 00:21:45,540
+intro that kind of builds up and plays
+
+535
+00:21:43,560 --> 00:21:48,000
+into this little loop that we made maybe
+
+536
+00:21:45,540 --> 00:21:49,950
+I want to copy over the pads for example
+
+537
+00:21:48,000 --> 00:21:52,170
+I'm just kind of paste them over here
+
+538
+00:21:49,950 --> 00:21:53,700
+maybe I want them to be able to fade in
+
+539
+00:21:52,170 --> 00:21:55,530
+one thing I can do unable to ten is
+
+540
+00:21:53,700 --> 00:21:57,720
+switch to automation mode by pressing a
+
+541
+00:21:55,530 --> 00:21:59,820
+at which point you'll see a lot of these
+
+542
+00:21:57,720 --> 00:22:02,070
+red lines appear let's automate the
+
+543
+00:21:59,820 --> 00:22:04,080
+volume of our overall chords group track
+
+544
+00:22:02,070 --> 00:22:05,820
+I can do that by left clicking the
+
+545
+00:22:04,080 --> 00:22:07,770
+volume and you'll notice this red line
+
+546
+00:22:05,820 --> 00:22:10,920
+appeared I can automate this which means
+
+547
+00:22:07,770 --> 00:22:12,810
+I can change its value over time and so
+
+548
+00:22:10,920 --> 00:22:14,730
+maybe I want it to slowly fade in one
+
+549
+00:22:12,810 --> 00:22:16,950
+thing I can do is left-click and select
+
+550
+00:22:14,730 --> 00:22:18,810
+an anchor point right here and then
+
+551
+00:22:16,950 --> 00:22:20,700
+let's set another one at the beginning
+
+552
+00:22:18,810 --> 00:22:22,380
+now at this point I'm gonna left click
+
+553
+00:22:20,700 --> 00:22:24,480
+and drag it down and you'll notice that
+
+554
+00:22:22,380 --> 00:22:26,400
+I've lowered this to negative 10
+
+555
+00:22:24,480 --> 00:22:31,050
+decibels now if I were to hit play and
+
+556
+00:22:26,400 --> 00:22:33,390
+watch the volume over here it's
+
+557
+00:22:31,050 --> 00:22:35,070
+currently changing over time some things
+
+558
+00:22:33,390 --> 00:22:36,810
+you can do from here are add in some
+
+559
+00:22:35,070 --> 00:22:38,940
+more breakpoints to adjust the
+
+560
+00:22:36,810 --> 00:22:41,220
+automation you can hold the Alt key and
+
+561
+00:22:38,940 --> 00:22:42,630
+that selects this entire line I wish
+
+562
+00:22:41,220 --> 00:22:44,340
+want you can left-click and drag and
+
+563
+00:22:42,630 --> 00:22:46,650
+that creates a slope so let's have it
+
+564
+00:22:44,340 --> 00:22:48,519
+slowly fade in let's do the same thing
+
+565
+00:22:46,650 --> 00:22:50,499
+with our melody actually
+
+566
+00:22:48,519 --> 00:22:51,999
+want to copy and paste this over here
+
+567
+00:22:50,499 --> 00:22:53,440
+except I only want it to come in right
+
+568
+00:22:51,999 --> 00:22:54,940
+about here but I'm gonna do the same
+
+569
+00:22:53,440 --> 00:23:04,179
+thing with the volume I'm gonna automate
+
+570
+00:22:54,940 --> 00:23:06,669
+it another thing that can be potentially
+
+571
+00:23:04,179 --> 00:23:08,559
+is automate a low-pass filter so let's
+
+572
+00:23:06,669 --> 00:23:10,029
+add a low-pass filter right here maybe I
+
+573
+00:23:08,559 --> 00:23:12,519
+just want to cut off something really
+
+574
+00:23:10,029 --> 00:23:14,649
+high like sixteen thousand what I can do
+
+575
+00:23:12,519 --> 00:23:16,419
+is I can click this knob and automate
+
+576
+00:23:14,649 --> 00:23:18,009
+that as well so if I were to set a
+
+577
+00:23:16,419 --> 00:23:19,899
+breakpoint right here and then maybe
+
+578
+00:23:18,009 --> 00:23:22,059
+right here I can have it be lower I can
+
+579
+00:23:19,899 --> 00:23:37,089
+essentially have this EQ filter automate
+
+580
+00:23:22,059 --> 00:23:39,519
+over time let's get rid of some of these
+
+581
+00:23:37,089 --> 00:23:41,469
+layers and then finally let's wrap it up
+
+582
+00:23:39,519 --> 00:23:43,329
+by adding in a transition sound effect
+
+583
+00:23:41,469 --> 00:23:47,289
+let's right click over here and insert
+
+584
+00:23:43,329 --> 00:23:51,820
+audio track let's go over under drums
+
+585
+00:23:47,289 --> 00:23:54,099
+maybe find a ride this one sounds pretty
+
+586
+00:23:51,820 --> 00:23:56,139
+good to me something long let's drag it
+
+587
+00:23:54,099 --> 00:23:58,029
+on to our audio track let's double click
+
+588
+00:23:56,139 --> 00:24:00,729
+it and actually hit this button right
+
+589
+00:23:58,029 --> 00:24:03,269
+here this reverses the sample now if I
+
+590
+00:24:00,729 --> 00:24:03,269
+were to hit play
+
+591
+00:24:04,280 --> 00:24:08,970
+now it's sounding a little bit weird and
+
+592
+00:24:06,930 --> 00:24:10,650
+that's because it's warped one thing I
+
+593
+00:24:08,970 --> 00:24:12,780
+also want to do is unclick this button
+
+594
+00:24:10,650 --> 00:24:24,780
+right here it says warp now let's zoom
+
+595
+00:24:12,780 --> 00:24:26,610
+in and drag this right over here and so
+
+596
+00:24:24,780 --> 00:24:28,320
+now I have a very basic transition sound
+
+597
+00:24:26,610 --> 00:24:30,300
+effect but I feel like it's coming in
+
+598
+00:24:28,320 --> 00:24:32,490
+maybe a little too soon so let's drag
+
+599
+00:24:30,300 --> 00:24:34,410
+this over by left clicking the end over
+
+600
+00:24:32,490 --> 00:24:36,630
+here dragging it and let's hit the a
+
+601
+00:24:34,410 --> 00:24:37,980
+button to leave automation mode at which
+
+602
+00:24:36,630 --> 00:24:39,290
+point when I hover over this sound
+
+603
+00:24:37,980 --> 00:24:41,550
+effect you'll notice there's four
+
+604
+00:24:39,290 --> 00:24:44,040
+squares that show up on each corner
+
+605
+00:24:41,550 --> 00:24:45,900
+let's left-click this one and drag it in
+
+606
+00:24:44,040 --> 00:24:48,180
+this controls the volume of the sound
+
+607
+00:24:45,900 --> 00:24:54,720
+effect so essentially it's slowly coming
+
+608
+00:24:48,180 --> 00:24:56,970
+in it's fading in over time I can move
+
+609
+00:24:54,720 --> 00:25:03,300
+this little icon right here to change
+
+610
+00:24:56,970 --> 00:25:05,280
+the slope of the line finally let's
+
+611
+00:25:03,300 --> 00:25:07,950
+right click insert audio track let's add
+
+612
+00:25:05,280 --> 00:25:10,230
+in one more ride a simple sound effect
+
+613
+00:25:07,950 --> 00:25:12,600
+at the beginning of this loop so it kind
+
+614
+00:25:10,230 --> 00:25:14,880
+of rises up into this reverse cymbal but
+
+615
+00:25:12,600 --> 00:25:19,230
+then it also crashes as soon as this
+
+616
+00:25:14,880 --> 00:25:22,520
+loop starts this sounds good to me let's
+
+617
+00:25:19,230 --> 00:25:26,470
+make sure this isn't warped as well
+
+618
+00:25:22,520 --> 00:25:29,120
+[音频]
+
+619
+00:25:26,470 --> 00:25:42,080
+must maybe lower the volume of this real
+
+620
+00:25:29,120 --> 00:25:44,330
+quick and I think that should do it
+
+621
+00:25:42,080 --> 00:25:46,460
+that's you know the very basics of
+
+622
+00:25:44,330 --> 00:25:48,380
+making your first song what you do at
+
+623
+00:25:46,460 --> 00:25:50,120
+this point is more or less just take
+
+624
+00:25:48,380 --> 00:25:52,730
+what you just learned and kind of extend
+
+625
+00:25:50,120 --> 00:25:55,340
+that to make an entire full length track
+
+626
+00:25:52,730 --> 00:25:57,260
+you'd then also have to export your song
+
+627
+00:25:55,340 --> 00:26:00,050
+which you can which you can do by going
+
+628
+00:25:57,260 --> 00:26:01,190
+to file export audio and video and then
+
+629
+00:26:00,050 --> 00:26:03,410
+you'd also have to make sure that your
+
+630
+00:26:01,190 --> 00:26:05,900
+track is mastered that's another process
+
+631
+00:26:03,410 --> 00:26:07,400
+in of itself but there you have it
+
+632
+00:26:05,900 --> 00:26:09,380
+that's pretty much it that's the basics
+
+633
+00:26:07,400 --> 00:26:10,610
+of making your first song I hope you
+
+634
+00:26:09,380 --> 00:26:12,500
+enjoyed the video I hope you learned
+
+635
+00:26:10,610 --> 00:26:15,140
+something consider checking out my new
+
+636
+00:26:12,500 --> 00:26:16,640
+EP coming out November 3rd very excited
+
+637
+00:26:15,140 --> 00:26:18,700
+for them to come out and thanks for
+
+638
+00:26:16,640 --> 00:26:18,700
+watching
+
+639
+00:26:19,740 --> 00:26:38,700
+[音频]
